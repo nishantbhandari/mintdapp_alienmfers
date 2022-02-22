@@ -6,13 +6,13 @@
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "the ape frens",
-  "SYMBOL": "ape fren",
-  "MAX_SUPPLY": 7777,
-  "WEI_COST": 0,
-  "DISPLAY_COST": 0,
+  "NFT_NAME": "alien mfers",
+  "SYMBOL": "alien mfer",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 111282,
   "MARKETPLACE": "OpenSea",
-  "MARKETPLACE_LINK": "https://opensea.io/theapefrens",
+  "MARKETPLACE_LINK": "https://opensea.io/",
   "SHOW_BACKGROUND": true
 }
