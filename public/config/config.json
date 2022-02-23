@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x8E04B34166612e73E8f8b7d7a5ddb6Ea2895b4b5",
-  "SCAN_LINK": "https://etherscan.io/address/0x8e04b34166612e73e8f8b7d7a5ddb6ea2895b4b5",
+  "CONTRACT_ADDRESS": "0x93ff9325554fb25ea78c4b9513760f65cea1ff5c",
+  "SCAN_LINK": "https://etherscan.io/address/0x93ff9325554fb25ea78c4b9513760f65cea1ff5c",
   "NETWORK": {
     "NAME": "mainnet",
     "SYMBOL": "ETH",
@@ -9,8 +9,8 @@
   "NFT_NAME": "alien mfers",
   "SYMBOL": "alien mfer",
   "MAX_SUPPLY": 3000,
-  "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 0.01,
+  "WEI_COST": 6900000000000000,
+  "DISPLAY_COST": 0.0069,
   "GAS_LIMIT": 111282,
   "MARKETPLACE": "OpenSea",
   "MARKETPLACE_LINK": "https://opensea.io/",
