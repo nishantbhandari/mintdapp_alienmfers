@@ -392,14 +392,13 @@ function App() {
           <s.TextTitle
               style={{
                 textAlign: "center",
-                fontSize: 50,
+                fontSize: 40,
                 fontWeight: "bold",
                 color: "var(--accent-text)",
               }}
             >
 
-               alien mfers are derivative of lord @sartoshi_nfts mfer project
-            </s.TextTitle>
+3000 alien mfers dropping in the alienverse | 50% gains for Ukraine Relief 🇺🇦 | all hail @sartoshi_nft | MINT Price: 0.0069 ETH + GAS | MINTING LIVE!            </s.TextTitle>
           </s.Container>
         </ResponsiveWrapper>
         <s.SpacerMedium />
