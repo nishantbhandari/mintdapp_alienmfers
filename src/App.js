@@ -398,7 +398,7 @@ function App() {
               }}
             >
 
-3000 alien mfers dropping in the alienverse.  50% gains for Ukraine Relief 🇺🇦. all hail @sartoshi_nft             </s.TextTitle>
+3000 alien mfers dropping in the alienverse.  50% profits to Ukraine Relief Fund 🇺🇦. all hail @sartoshi_nft             </s.TextTitle>
           </s.Container>
         </ResponsiveWrapper>
         <s.SpacerMedium />
