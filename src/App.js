@@ -386,7 +386,21 @@ function App() {
               </>
             )}
           <s.SpacerMedium />
+          </s.Container>
+          <s.SpacerLarge />
+          <s.Container flex={1} jc={"center"} ai={"center"}>
+          <s.TextTitle
+              style={{
+                textAlign: "center",
+                fontSize: 50,
+                fontWeight: "bold",
+                color: "var(--accent-text)",
+              }}
+            >
 
+               alien mfers are derivative of lord @sartoshi_nfts mfer project
+            </s.TextTitle>
+          </s.Container>
         </ResponsiveWrapper>
         <s.SpacerMedium />
         <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
