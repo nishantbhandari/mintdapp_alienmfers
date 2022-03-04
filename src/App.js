@@ -206,7 +206,7 @@ function App() {
       >
            <StyledButton
                       onClick={(e) => {
-                        location.replace = "https://twitter.com/alienapemfers";
+                        location.href = "https://twitter.com/alienapemfers";
                       }}
                     >
                       Twitter
