@@ -398,7 +398,12 @@ function App() {
           </s.Container>
           <s.SpacerLarge />
           <s.Container flex={1} jc={"center"} ai={"center"}>
-          <s.TextTitle
+         
+          </s.Container>
+        </ResponsiveWrapper>
+        <s.SpacerMedium />
+        <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
+      <s.TextTitle
               style={{
                 textAlign: "center",
                 fontSize: 40,
@@ -408,21 +413,6 @@ function App() {
             >
 
  alien mfers are mfking derivatives of lord @sartoshi_nft's mfers + alien frens + BAYC . 50% profits will be donated for Ukraine's relief fund. No Roadmap just Vibes          </s.TextTitle>
-          </s.Container>
-        </ResponsiveWrapper>
-        <s.SpacerMedium />
-        <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
-          <s.TextDescription
-            style={{
-              textAlign: "center",
-              color: "var(--primary-text)",
-            }}
-          >
-            Please make sure you are connected to the right network (
-            {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
-            Once you make the purchase, you cannot undo this action.
-            Please Do not try to mint more NFTs than the limit per wallet. We are not liable for failed transaction fees 
-          </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
             style={{
