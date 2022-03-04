@@ -207,7 +207,7 @@ function App() {
  
            <StyledButton
                       onClick={(e) => {
-                        location.href = "https://opensea.io/collection/theapefrens";
+                        location.href = "https://opensea.io/collection/alien-mfers";
                       }}
                     >
                       OpenSea
