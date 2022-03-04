@@ -407,7 +407,7 @@ function App() {
               }}
             >
 
-3000 alien mfers dropping in the alienverse.  50% profits to Ukraine Relief Fund 🇺🇦. all hail @sartoshi_nft             </s.TextTitle>
+ alien mfers are mfking derivatives of lord @sartoshi_nfts mfers + alien frens + BAYC . 50% profits will be donated for Ukraine\s relief fund. No Roadmap just Vibes          </s.TextTitle>
           </s.Container>
         </ResponsiveWrapper>
         <s.SpacerMedium />
