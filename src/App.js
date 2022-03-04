@@ -211,6 +211,20 @@ function App() {
                     >
                       Twitter
                     </StyledButton>
+           <StyledButton
+                      onClick={(e) => {
+                        location.href = "https://opensea.io/collection/theapefrens";
+                      }}
+                    >
+                      OpenSea
+                    </StyledButton>
+           <StyledButton
+                      onClick={(e) => {
+                        location.href = "https://etherscan.io/address/0x93ff9325554fb25ea78c4b9513760f65cea1ff5c";
+                      }}
+                    >
+                      EtherScan
+                    </StyledButton>
         <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
