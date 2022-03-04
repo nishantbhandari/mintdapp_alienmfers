@@ -241,7 +241,7 @@ function App() {
               }}
             >
 
-{data.totalSupply}/{CONFIG.MAX_SUPPLY} 
+{data.totalSupply} / {CONFIG.MAX_SUPPLY} 
             </s.TextTitle>
             <s.TextDescription
               style={{
