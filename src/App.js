@@ -206,9 +206,7 @@ function App() {
       >
            <StyledButton
                       onClick={(e) => {
-                        e.preventDefault();
-                        dispatch(connect());
-                        getData();
+                        location.href = "www.yoursite.com";
                       }}
                     >
                       CONNECT
