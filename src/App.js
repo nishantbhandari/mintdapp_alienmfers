@@ -206,10 +206,10 @@ function App() {
       >
            <StyledButton
                       onClick={(e) => {
-                        location.href = "www.yoursite.com";
+                        location.replace = "https://twitter.com/alienapemfers";
                       }}
                     >
-                      CONNECT
+                      Twitter
                     </StyledButton>
         <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
         <s.SpacerSmall />
