@@ -241,7 +241,7 @@ function App() {
               }}
             >
 
-               {CONFIG.MAX_SUPPLY} NFTS
+{data.totalSupply}/{CONFIG.MAX_SUPPLY} 
             </s.TextTitle>
             <s.TextDescription
               style={{
