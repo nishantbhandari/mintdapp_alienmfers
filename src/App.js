@@ -292,7 +292,7 @@ function App() {
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
  
-                   MAX 100 NFTs per wallet
+                   MAX 100 NFTs per wallet | 20 NFTs per transaction
                     </s.TextDescription>
                   
              
