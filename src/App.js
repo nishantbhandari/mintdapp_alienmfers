@@ -413,7 +413,7 @@ function App() {
               }}
             >
 
- alien mfers are mfking derivatives of lord @sartoshi_nft's mfers + alien frens + BAYC . 50% profits will be donated for Ukraine's relief fund. No Roadmap just Vibes          </s.TextTitle>
+ alien mfers are mfking triple derivatives of lord @sartoshi_nft's mfers + BAYC + alienfrens. no roadmap, just mfking vibes </s.TextTitle>
           <s.SpacerSmall />
           <s.TextDescription
             style={{
